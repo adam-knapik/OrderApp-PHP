@@ -1,0 +1,16 @@
+1. Login
+- zahashowac hasło
+- dodać logowanie loginem
+
+2. Profil
+- dodać zakładkę
+
+3. Kontrahent
+- edycja karta
+- usunięcie karta
+
+4. Zamówienie
+- edycja karta
+- dodanie rozróżniania adresów firmy
+
+Refaktoryzacjca?
